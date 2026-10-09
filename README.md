@@ -1,5 +1,7 @@
 # ✨ NOVA — Empathetic AI Assistant (Powered by Google Services)
 
+> 🌐 **Live Website**: [https://niharika897.github.io/NOVA-ai-assistant/](https://niharika897.github.io/NOVA-ai-assistant/)
+
 NOVA (**Neural Omni-empathic Virtual Assistant**) is a state-of-the-art conversational AI interface designed after ChatGPT, integrated with **Google's Gemini AI** and engineered with a dedicated **Human Emotion Understanding & Resonance Engine**.
 
 ---
