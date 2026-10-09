@@ -1,0 +1,32 @@
+# Secrets & Environment Variables
+.env
+.env.*
+*.key
+*.pem
+*.credentials
+*.secret
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+
+# Operating System Files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# IDE and Editor Directories
+.vscode/
+.idea/
+
+# Logs and Scratch Files
+*.log
+scratch/
