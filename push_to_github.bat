@@ -4,7 +4,7 @@ echo ======================================================
 echo       Pushing NOVA AI Assistant to GitHub...
 echo ======================================================
 cd /d "%~dp0"
-set "PATH=C:\Users\Niharika\AppData\Local\Microsoft\WinGet\Packages\Git.MinGit_Microsoft.Winget.Source_8wekyb3d8bbwe\cmd;%PATH%"
+set "PATH=C:\Users\Niharika\AppData\Local\Microsoft\WinGet\Packages\Git.MinGit_Microsoft.Winget.Source_8wekyb3d8bbwe\cmd;C:\Users\Niharika\AppData\Local\Microsoft\WinGet\Packages\Git.MinGit_Microsoft.Winget.Source_8wekyb3d8bbwe\ucrt64\bin;%PATH%"
 git push -u origin main
 echo.
 echo ======================================================
